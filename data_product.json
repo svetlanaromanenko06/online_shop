@@ -1,0 +1,28 @@
+[
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Диван",
+      "description": "Хороший диван",
+      "preview": "",
+      "category": "Мягкая мебель",
+      "price": 130000,
+      "date_of_creation": "2023-08-13T18:40:25Z",
+      "last_modified_date": "2023-08-13T18:40:27Z"
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 2,
+    "fields": {
+      "name": "Комод",
+      "description": "Хороший комод",
+      "preview": "",
+      "category": "Корпусная мебель",
+      "price": 50000,
+      "date_of_creation": "2023-08-13T18:41:13Z",
+      "last_modified_date": "2023-08-13T18:41:15Z"
+    }
+  }
+]
